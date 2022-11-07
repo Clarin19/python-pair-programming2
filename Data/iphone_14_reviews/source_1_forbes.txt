@@ -1,0 +1,89 @@
+The Apple iPhone 14 is the least expensive current iPhone you can buy—and that $200 savings over an iPhone 14 Pro is its main appeal. It’s the first iPhone to consider if you don’t want to splash out on an iPhone 14 Pro and don’t need the three cameras or always-on display the extra money buys. The iPhone 14 is a worthwhile contender, even if its external design appears largely the same as last year’s model. Inside, it is an all-new handset. The larger iPhone 14 Plus—the first 6.7-inch iPhone introduced without the corresponding price bump that comes with being a Pro model—shares those new internal guts of the standard iPhone. Now, the biggest iPhone is accessible to many more pockets.
+
+The iPhone 14 starts at $799 and has a 6.1-inch display, the same size as on the iPhone 14 Pro. Its processor makes a lateral move, coming up to the standard iPhone from last year’s iPhone 13 Pro. This year’s model also gets a refreshed main camera and noticeably improved front camera.
+
+The iPhone 14 Plus starts at $899, $100 more than the standard 14 and has a larger 6.7-inch display, the same as found on the $1,099 iPhone Pro Max. Aside from its larger size, larger battery and higher price, the Plus matches the regular iPhone in features and design, including that processor from the iPhone 13 Pro.
+
+New to all of this year’s iPhones are a handful of features like improved computational photography, the ability to detect that you’ve been in a car crash, enhanced video stabilization and even the ability to send emergency messages via satellite. Read on for my take on whether the iPhone 14 and iPhone 14 Plus are worth the rather substantial investment.
+
+Apple iPhone 14: Technical Specifications
+Price $799 and up | Cameras: Rear 12-megapixel ultra-wide, 12-megapixel wide; front 12-megapixel | Processor Apple A 15 Bionic | Display: 6.1-inch OLED 60Hz display, 2,532 x 1,170 pixels, 460 pixels-per-inch| Storage: 128GB (up to 512GB) internal | Battery: Up to 20 hours video playback | Dimensions: 5.8 x 2.8 x 0.3 inches | Weight 6.1 ounces
+
+Apple iPhone 14 Plus: Technical Specifications
+Price $899 and up | Cameras: Rear 12-megapixel ultra-wide, 12-megapixel wide; front 12-megapixel | Processor Apple A 15 Bionic | Display: 6.1-inch OLED 60Hz display, 2,778 x 1,284 pixels, 458 pixels-per-inch| Storage: 128GB (up to 512GB) internal | Battery: Up to 26 hours video playback | Dimensions: 6.3 x 3.1 x 0.3 inches | Weight 7.2 ounces
+
+Best for Great safety features, Much better front camera, Strong performance
+Skip because, Overly familiar design, Underwhelming upgrades
+
+Apple iPhone 14 And iPhone 14 Plus: Design
+If the iPhone 14 seems familiar, that’s because it is. In almost every regard, the Apple iPhone 14 looks identical to its predecessor. The iPhone 14 Plus looks just the same except for its larger size. Same colors, same finishes, just a bigger version.
+
+The most notable differences from the iPhone 13 are the colors, the cutout at the top of the display and the rear cameras. The color changes are subtle: A brighter Product(Red), for instance, joins Midnight, Starlight and Purple. The fifth color is a more pastel shade of Blue. While the iPhone 14 Pro series gained the Dynamic Island, the iPhone 14’s notch reflects a minor redesign to become narrower, with a deeper cutout.
+
+The iPhone 14s have a glossy chassis, unlike the matte finish found on the iPhone Pro models. Both have an aluminum frame. The standard iPhone 14 weighs 1.2 ounces lighter than the iPhone 14 Pro, a weight difference you can actually notice when holding the phone in one hand. Similarly, the iPhone 14 Plus weighs 1.3 ounces less than the iPhone 14 Pro Max, an even more palpable difference.
+
+The iPhone 14 Plus is a really big phone. So, just like with the iPhone 14 Pro Max, you need to try it in your hand before you buy if you haven’t had a phone this big before. It’s not suitable for smaller hands.
+
+This is the same style of cutout first seen on the iPhone 13 Pro to accommodate the front cameras. While very different in appearance from the iPhone 14 Pro’s small capsule-like cut-out, it is an improvement over the iPhone 13’s design.
+
+The new main camera on the iPhone 14 has a bigger lens. As a result, and for the sake of symmetry, Apple has enlarged both of the rear cameras, which remain in a diagonal arrangement. (For these reasons, you’re going to need a new case for the iPhone 14—last year’s cases won’t fit.) Same applies to the iPhone 14 Plus—the cameras are the same size as on the 14, but they are proportionally smaller on the larger phone.
+
+U.S. models of the iPhone 14 and iPhone 14 Plus ditch SIM cards in favor of using eSIM. This means the phone no longer has a SIM card tray; however, iPhones sold outside the U.S. still have the SIM tray). This change sets Apple up for a future in which eSIM is ubiquitous, and the internal components can be rejiggered to take advantage of the vacated space.
+
+The phone’s sensors can now detect if you’ve been in a car crash and automatically send a message that includes your precise location to emergency services. The redesigned antennas will enable satellite connectivity starting in November throughout the U.S. and Canada, allowing you to connect to a passing satellite for emergency messages if you’re off-grid and have no Wi-Fi or cellular connection available. You need to be outdoors and follow on-screen directions to know where to point your iPhone, and Apple includes free service for two years. These are two new personal safety features that no other phone brand has come anywhere close to offering, and they are both great examples of how Apple can leverage its tight integration between hardware and software.
+
+
+Apple iPhone 14 And iPhone 14 Plus: Display
+The display is unchanged from the iPhone 13. Specifically, it has a 6.1-inch OLED display with a 60Hz refresh rate and 2,532 x 1,170 pixels, which equates to 460 pixels-per-inch.
+
+On the iPhone 14 Plus, the 6.7-inch OLED display with 60Hz refresh rate has more pixels for the larger size, 2,778 x 1,284, with a fractionally smaller pixel density, 458 pixels-per-inch. The display on each appeared the same to me in use, producing bright images at a maximum 800 nits brightness (and 1,200 nits peak using HDR). It has a ceramic shield at the front to protect the glass and the display and phone are water-resistant up to 50 meters.
+
+The extra screen real estate on the iPhone 14 Plus looks great. You can choose whether it exactly mirrors the iPhone 14 with larger text, or you can take the font size down a notch and show more text at the same time. The software is smart enough to reformat the copy to make it look its best.
+
+Apple iPhone 14 And iPhone 14 Plus: Cameras
+Apple’s camera engineers are exceptional, and they’ve put a new main camera on these iPhones. Interestingly, it’s different from the also-new main camera on the Pro models.
+
+The iPhone 14 and iPhone 14 Plus add a wider f/1.5 aperture lens and a larger image sensor with larger pixels. In software, Apple adds what it calls the Photonic engine, which ramps up Apple’s computational photography abilities by moving the process earlier into the workflow than before. This means Deep Fusion—Apple’s term for stacking multiple images and sifting through them to create a richer final result—happens earlier in the computational pipeline, before any compression takes place. The result is a better image simply because Apple’s starting with better data. The Photonic engine is in all iPhone models.
+
+Between the updated main camera hardware and improved software, Apple says the iPhone 14 and iPhone 14 Plus cameras have 2.5x better low light performance compared to the iPhone 13. Well, that’s hard to quantify, but certainly the camera is very good. In my tests, images were detailed, rich and sharp, even in lower light and tricky shooting conditions. Apple’s camera system still occasionally makes average shots look jaw-droppingly good.
+
+The iPhone 14’s ultra-wide camera remains the same as before, but images benefit from Apple’s new Photonic engine. The all-new front-facing camera ups the pixel count from 7 megapixels to 12 megapixels, matching the front camera on the iPhone 14 Pro. And for the first time, the front camera has an autofocus lens instead of the traditional fixed focus. Again, the emphasis is on improving low-light performance, a point which became apparent when I looked at a selfie image on the iPhone 13 and 14 models side-by-side at the same brightness. I could see a definite increase in how it handled details and light. Meanwhile, both iPhone 14 models have a redesigned flash which provides 10% brighter and more uniform lighting.
+
+Apple’s newest video trick is Action Mode, which improves optical image stabilization to smoothen video capture. You can enable this feature by tapping the icon of a little person running at the top of the video option in the Camera app. It works in part by cropping into what the camera sees to give itself lots of room around the framing to move around and offset all the motion.
+
+Action Mode is on the iPhone 14 Pro too, and I’ve tested it on both. The experience is identical, though obviously the result is better on the Pro because the camera’s sensor is better (an impressive 48 megapixels). Action Mode delivers smooth and highly watchable video, enough so I can rethink whether I still need a separate gimbal for image stabilization.
+
+Apple iPhone 14 And iPhone 14 Plus: Performance and Battery Life
+As I already mentioned, the iPhone 14’s brain is powered by last year’s A15 Bionic processor. This has never happened before with an iPhone. But to be clear, it’s not the iPhone 13 processor in the iPhone 14, but the souped-up version originally introduced in the iPhone 13 Pro. In other words, this iPhone is powered by last year’s Pro CPU. Time will tell if this will be Apple’s formula in the future. All the above applies identically to the iPhone 14 Plus too.
+
+Some have said the iPhone 14 should be called the iPhone 13s, harkening back to a time when Apple added an S to the model name in years when the upgrades were less dramatic and fewer phone variations existed. Apple did the right thing in naming it like this, even if the new phone sometimes seems underwhelming. As it stands, I found this phone’s performance highly effective and fast. If you weren’t told it was a year-old chip, it wouldn’t cross your mind to ask.
+
+The iPhone 14 Plus is a genuinely new handset, even though it has the same processor and looks as the iPhone 14. Its larger size makes it more inviting for those wanting a bigger display for enjoying larger text or more sumptuous video viewing.
+
+Battery life on the iPhone 14 is what you’d expect, lasting a full day. Despite the new features, this iPhone’s battery lasts as long as the iPhone 13 which, you might remember, was a lot better than the iPhone 12.
+
+As for the iPhone 14 Plus, the extra-big battery goes a long way. It’s the longest-lasting battery in any iPhone ever, Apple says. In my tests, I found the iPhone 14 Pro Max beats it for some uses, such as video playback, but in other respects, this battery just goes on and on. That’s down to the bigger cell and the fact that, unlike the iPhone 14 Pro Max, there’s no always-on display to service. It lasts much longer than a day and brings real peace of mind from the terrors of battery anxiety.
+
+Apple iPhone 14 And iPhone 14 Plus: Verdict
+It’s true this iPhone looks like last year’s model. It’s true the display remains unchanged, and the rear camera’s megapixel count is the same. And it’s true it uses last year’s (Pro) processor.
+
+Nonetheless, the iPhone 14 has enough power from its processor to handle improved computational photography and video Action Mode. The cameras do well in low light, producing detailed stills and smooth video. Then there are the cool new safety features: Crash detection and emergency SOS messages.
+
+So, yes, while the iPhone 14 may look like last year’s iPhone, it’s anything but. The iPhone 14 is a great choice for any who appreciate the smaller display and don’t require the higher megapixels and always-on display of the iPhone 14 Pro. Going with the 14 saves some money, but it does so by sacrificing those power features.
+
+And then there’s the iPhone 14 Plus which does everything the iPhone 14 does, but on a larger scale, so it’s easier to read the screen and, if you have larger hands, easier to type on the on-display keyboard. Performance is identical between the larger and smaller iPhone 14 models, but the battery lasts even longer on the Plus.
+
+
+Apple iPhone 14: Should You Upgrade?
+The iPhone 14 is a slick, responsive phone. Is it worth an upgrade from the iPhone 13, in the same way that the iPhone 14 Pro is worth the upgrade from the iPhone 13 Pro? No. But the iPhone 14 is certainly a great phone. The iPhone 13 is still available for $699, but I’d say the 14 is better, and well-worth the extra $100 if you were considering an iPhone 13 today.
+
+If you want the best iPhone, then you need to go with the iPhone Pro or Pro Max. Yes, the prices are higher, but those models feel like a bigger upgrade than the 14 does. And if you can swing the extra bucks for a Pro over an iPhone 14, it’s well worth it if for the Pro’s better camera. But if an attractive, fast performer of a phone is all you’re after, the iPhone 14 fits the bill.
+
+Again, the Plus is a whole other thing. If you are considering upgrading and you want a bigger display then now, for the first time, there’s a way to do that without the huge extra cost associated with the Pro Max. If the iPhone 14 feels like a decent improvement to the iPhone 13, then the iPhone 14 Plus feels like a very special upgrade, assuming you like the bigger size.
+
+My Expertise
+I’ve been writing about tech longer than I care to remember. Most of the words I’ve written have been about phones, many of them before the word smartphone existed, back when Nokia owned most of the market and batteries lasted for days. I’ve tested every shape of phone, from soap bar to flip to slide to (I kid you not) lipstick. My first camera phone was a Nokia 7650 with a 0.3-megapixel sensor. Things have come a long way since then, but the importance of central elements has remained: Ease of use, versatility, efficiency and battery life.
+
+How I Tested The iPhone 14 Pro And Pro Max
+I’ve tested these phones extensively, from taking pictures in as many situations as possible to pushing the battery life to its limits with video playback, video streaming, using mapping apps to push the GPS connection and so on. Of course, I’ve checked that video looks smooth on the screen and that the phones can, you know, make and receive calls. I used common, familiar apps to vet they work faster than ever. And I’ve made sure the phones fit the hand, offer good value and are a pleasure to pull out of your pocket and use.
+

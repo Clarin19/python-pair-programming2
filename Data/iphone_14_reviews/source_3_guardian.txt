@@ -1,0 +1,41 @@
+On the surface, the iPhone 14 looks like a very minor upgrade. But a redesigned inside makes it easier and cheaper to repair, marking a major shift in the right direction for Apple.
+
+Weak currency rates against the dollar mean the new iPhone is £70 (A$50) more expensive than its predecessor, priced at £849 (A$1,399) despite costing the same $799 in the US. It is an unfortunately familiar story for all of Apple’s current products, and likely others to be released this year.
+
+On the outside the iPhone 14 is basically the same as its predecessor with a 6.1-inch standard 60Hz OLED screen, aluminium sides and a glass back. It even has the same A15 chip as used in the 13 Pro models last year, and the same long battery life of about 44 to 48 hours between charges. Use it sparingly and you’ll get about two days between charges.
+
+The biggest changes are hidden from view. Previously, the back glass panel was essentially glued to the frame, making its replacement when smashed a painstaking process requiring full disassembly of the device from the front. Now the iPhone 14 has a new mid-frame design that allows it to be opened from both front and back. It’s not quite the modular, user-repairable dream demonstrated by the Fairphone, but it is a big step in the right direction for Apple.
+
+For the user, that means better heat dissipation so you can game for longer. But for repairs it means you can replace the back glass as easily as you can the screen, which is a significant improvement for the longevity of the device. The result is that back glass repairs cost £169, down from £300-plus from Apple. Third parties are likely to charge less again.
+
+Like the iPhone 14 Pro, the new phone ships without a sim card tray in the US, relying entirely on digital eSims, but continues to have the sim tray outside the US, including the UK. Emergency satellite SOS is rolling out in November, but only to phones sold in the US or Canada.
+
+Apple does not provide an expected lifespan for the battery but it should last in excess of 500 full charge cycles with at least 80% of its original capacity and can be replaced for £105. Out-of-warranty screen repairs cost £289, while back glass repairs cost £169. Repair specialists iFixit awarded the phone seven out of 10 for repairability, praising the new internal design.
+
+The 14 contains recycled gold, plastic, rare earth elements, tin and tungsten. The company breaks down the phone’s environmental impact in its report. Apple offers trade-in and free recycling schemes, including for non-Apple
+
+The 14 ships with iOS 16, which is a more playful version of Apple’s software and has a revamped lock screen among many other new features. You can expect at least five years of software and security updates and potentially as many as seven.
+
+New for the iPhone 14 line is car-crash detection, which senses the high impact force of a traffic collision and automatically calls the emergency services if you do not respond within 20 seconds.
+
+The 14 has the same familiar dual-camera setup on the back without an optical zoom, as with previous non-Pro iPhones. But the main 12MP camera sensor is physically bigger than its predecessor, boosting low-light performance by up to 49%. Shots taken in middling- to low-light conditions, such as indoors, are significantly sharper than before and the dedicated night mode is required less frequently.
+
+The ultra-wide camera has better low light performance thanks to improved software processing but remains otherwise unchanged. The two combined are reliably good cameras, but the lack of an optical zoom is disappointing compared to rivals.
+
+The selfie camera has been improved for the first time in many years on the iPhone, now with twice as good low-light performance, autofocus and a sharper lens. Pictures are crisper with better detail, particularly in low light or unsteady conditions, as is the case for most selfies.
+
+Video capture remains class leading. A new action mode stabilisation system works wonders in bright light, but struggles with anything else.
+
+Overall the 14’s cameras are good, but lack range for the price.
+
+The iPhone 14 costs from £849 ($799/A$1,399) with 128GB of storage.
+
+For comparison, the iPhone 14 Plus costs £949, the iPhone 14 Pro costs £1,099, the Samsung Galaxy S22+ costs £949, the Galaxy Z Flip 4 costs £999 and the Google Pixel 6 costs £599.
+
+At first glance the iPhone 14 is basically an iPhone 13 with slightly improved cameras. It has the same screen, chips, long battery life and design. But it hides a shift change for Apple with reconfigured guts that allow it to be repaired more easily and for less. It is a definite upgrade for longevity, even if it’s not a whizz-bang feature, and hopefully something that’s rolled out to the rest of Apple’s smartphone line soon.
+
+While it’s certainly not worth upgrading from recent models, if you’re looking to replace an older device coming to the end of its life, the iPhone 14 is a great, safe phone with all the elements that make iPhones some of the best on the market. The currency-driven price increase stings, but trade-in deals could help soften that blow.
+
+Pros: easier and cheaper to repair, better cameras, water resistant, Face ID, long battery life, good performance, good screen, durable and easy to hold, long software support.
+
+Cons: no USB-C, need your own charger, no telephoto camera, screen slower than competition and 14 Pro, price increase outside the US.

@@ -1,0 +1,99 @@
+IPHONE 14 REVIEW BY TECH RADAR
+
+It’s a little hard to get excited about an iPhone that features last year's design, last year’s screen, and last year’s CPU, but taken on its own – out of the substantial shadow of the new iPhone 14 Pro – Apple’s new iPhone 14 looks like a pretty darn good smartphone.
+
+Even though the iPhone 14 looks a lot like the iPhone 13, there are numerous upgrades under the hood that promise to deliver an improved experience overall.
+
+The phone's two rear cameras – a 12MP wide and 12MP ultra-wide – have new sensors, and the 12MP TrueDepth camera gobbles up more light and can now autofocus. All the lenses are backed by Apple’s new Photonic Engine ("photonic" refers to the management of photons, or light particles – read more about it in our iPhone 14 camera explainer). In a practical sense, it’s a reordering of Apple's imaging pipeline, which now applies the Deep Fusion neural engine image processing to uncompressed images (rather than compressed ones, as it did previously). What you won’t find here is a 48MP sensor with quad-pixel binning or any kind of zoom. For those, you need to upgrade to the iPhone 14 Pro or iPhone 14 Pro Max.
+
+There’s still the excellent Super Retina XDR OLED screen, but if you’re not a fan of that notch you may again want to go for the 14 Pro or Pro Max, which are rocking Apple’s nifty new Dynamic Island, along with an adaptive refresh rate and always-on display. 
+
+Apple also made the decision to keep the iPhone 14 and 14 Plus on last year’s Apple silicon. Granted, it’s not the same A15 Bionic that ran last year’s iPhone 13 and 13 mini. Instead of a four-core GPU, this A15 Bionic has a five-core GPU. It’s essentially the same chip that was in last year’s iPhone 13 Pro and 13 Pro Max, and should promise improved performance over the iPhone 13’s chip.
+
+For all that hasn’t changed, there are some cool new (though hard-to-test) features, like crash detection; where the phone will know if you’re in a car crash and automatically alert emergency services and key contacts. In a similar vein, the iPhone 14 can now use satellite communications to contact emergency services. It’s an industry first, and it’s good to see that even Apple’s entry-level iPhone 14 got this new ability. 
+
+There are some other significant under-the-hood updates, specifically a new heat dissipation system that will help the phone manage temperatures better, and work more efficiently (this phone has better battery life than the iPhone 13). Apple also contends that this iPhone is easier to repair than previous models, as – among other things, the back glass can now be replaced without have to swap out the entire enclosure. 
+
+Apple unveiled its entire iPhone 14 line – the iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max – on September 7, 2022. 
+
+The iPhone 14 went on pre-order on September 9 and is now available, as of September 16. It starts at $799 / £849 / AU$1,399 for the 128GB model, but you can get it with up to 512GB of storage (check out our best iPhone 14 deals if you're already interested).
+
+Unlike most Android phones, there are no options for additional RAM, beyond the baseline 6GB, although that is more than the base iPhone 13, which had only 4GB.
+
+Value score: 3.5/5
+
+Aside from new colors – we tested the tasteful pale blue model – the 6.1-inch iPhone 14 looks very much like the iPhone 13. Its aluminum frame, button placement, stereo speaker grilles, Lightning port, and even the screen, all appear unchanged. There are, though, tiny structural differences.
+
+At 146.7 x 71.5 x 7.8mm, it’s just a hair thicker than the iPhone 13. It’s also two grams lighter than the last phone, which we assume is down to the new thermal architecture inside the device. Despite the chassis similarities, the iPhone 14 doesn’t quite fit in an official iPhone 13 MagSafe case – the body slides in just fine, but the iPhone 14’s two-lens camera array is slightly larger (as are the lenses themselves).
+
+All the materials – including the Ceramic Shield covering the display – are the same, and the dust and water resistance remains unchanged from the iPhone 13, as well. Naturally, we ran our iPhone 14 through a sprinkler, just to ensure it could handle it. It was fine – and it may have enjoyed the respite from the New York heat.
+
+Design score: 4/5
+
+With a 2532 x 1170, 460ppi resolution, the iPhone 14’s Super Retina XDR display is almost entirely unchanged from the iPhone 13. The notch that’s been banished from the iPhone 14 Pro and Pro Max lives on in this now somewhat aging design. It encompasses an updated TrueDepth camera (it’s still 12MP, but backed by a better light-gathering sensor and has the ability to autofocus), an IR sensor, flood illuminator, and, above it all, the top speaker (the other speaker is on the bottom of the phone). This is likely the last hurrah for the notch, as it seems hard to believe that it’ll survive in next year’s anticipated iPhone 15.
+
+Even though this is a bright (up to 1,200 nits) and colorful (Wide Color) display with (thanks to OLED) inky blacks (boasting a 2,000,000-to-1 contrast ratio), it automatically feels out of step with the latest in Apple display technology. There’s no adaptive refresh rate, and not even the120Hz ProMotion that we first met on 2021's Pro models. Just 60Hz. That might be hard to swallow when the iPhone 14 Pro and Pro Max offer adaptive refresh rates that range from 10Hz to 120Hz. Plus, those phones have a new always-on display mode that can stop down to just 1Hz, for extra power efficiency. Again, this is what you pay extra for.
+
+Display score: 3.5/5
+
+The iPhone 14 has just two rear cameras:
+
+A 12MP main (26mm, f/1.5)
+A 12MP ultrawide (120-degree field of view, 13mm, f/2.4)
+These are good cameras with better sensors and overall low-light performance compared to their predecessors. The front camera – also 12MP – now has autofocus too, which should make group selfies somewhat easier.
+
+All the cameras benefit from a new imaging pipeline. The Photonic Engine prioritizes Deep Fusion neural image processing earlier than previously, so it can work with uncompressed images.
+
+Photography with the iPhone 14 is good, though having also tested the iPhone 14 Pro, we do miss having optical zoom and macro abilities at our fingertips. Even so, this level of photographic capability and the high-quality output should satisfy most users.
+
+Like the rest of the iPhone 14 line, this model can shoot up to 4K video, and Cinematic Mode has now been pumped up to support 4K at 30fps.
+
+Brand new is Active Mode, which is enabled by selecting the running person icon in the top right-hand portion of the camera app’s viewfinder. This is a surprisingly effective way of removing much of the shake from action videos. No, there isn’t a new gimbal in the iPhone 14; instead, Apple employs over-scan and advanced roll detection – which is a fancy way of saying it rapidly and on-the-fly crops the video to keep the center (usually a subject) more smoothly in-frame. This processing does discard some video information (resulting in a cropped frame), but the results are GoPro-smooth. I’m not sure how wildly useful this is, but if you’re an action fan it might be a godsend.
+
+Camera score: 3/5
+
+At least Apple has been consistent on the audio side. All four iPhone 14 models have stereo speakers and spatial audio support, and create loud (if you want), clear, and bright sound. In movies and music that support it, spatial audio adds a sort of surround-sound effect. There are titles on Netflix, Amazon, and other streaming services to enjoy the feature, plus Apple Music has an entire spatial audio playlist to dive into. Everything we played on the iPhone 14 sounded great. 
+
+Oh hey, last year’s mobile CPU! We need to start out by making clear that there is nothing wrong with the A15 Bionic. It’s a powerful chip that has consistently beaten the best Qualcomm has to offer, and it has substantial headroom, which means mobile games like Asphalt: Legends and PUBG run smoothly. You can edit 4K videos, browse the web, do all the things you can do with the faster and more efficient A16 Bionic found in the iPhone 14 Pro and Pro Max, with the real-world difference likely only really becoming apparent after years of use.
+
+What Apple did here – bringing the enhanced A15 chip from the iPhone 13 Pro to the iPhone 14 – was kind of smart. It’s a good cost-saving move that will leave nobody wanting.
+
+The A15 Bionic, as it lives inside the new iPhone 14, has a new internal design for more efficient heat dissipation. This, Apple claims, helps with repairability, but a cooler chip should also run better.
+
+While benchmarks were more or less in line with the A15 Bionic we tested in the iPhone 13 Pro, this iPhone does promise better battery life (20 hours of video streaming, as opposed to 19 hours for the iPhone 13), despite having an only fractionally-bigger battery; suggesting Apple’s efforts with the cooling system are responsible for this improved efficiency.
+
+Performance score: 4/5
+
+In the US, the entire iPhone 14 line is now SIM-slot free, instead employing eSIM technology for connecting you to the cell network. In our experience, it introduced no difficulty in setting up the iPhone 14; although granted, Apple already assigned our handset a phone number for testing purposes. If you want to transfer your existing physical SIM info from your old iPhone to a new one, you should be able to do it electronically, without the help of your carrier. We’ll understand how well this all works when these new SIM-less iPhones get into consumers’ hands.
+
+The other cool, new connectivity feature is satellite-based emergency SOS. Apple is working with Globalstar low-Earth orbit satellites to provide this extra level of emergency support. While it’s not something we could test, we did see it in action at Apple’s Cupertino, California campus.
+
+We walked up a hill where cell and Wi-Fi were purposely unavailable. On the iPhone 14 Pro used for the demo (we’re assuming that the system works the same on the iPhone 14), we noticed a tiny ‘SOS’ and satellite icon in the upper-right quadrant of the display. Note that these icons won’t appear unless you’re outside, with a clear view of the sky.
+
+If you dial 911 (in the US) in this situation, the iPhone 14 will, as it did in our demo, ask if you want to try emergency text via satellite. After that, an on-screen emergency assistant offers a visual cue for which way you should face to connect to the nearest satellite. It then asks you a series of questions that the system can deliver via compressed text to Apple’s relay center, which then contacts emergency services.
+
+If, during the communication, a satellite moves out of range, the system will prompt you face in the right direction to reconnect.
+
+While satellite communications are primarily for emergency situations, you can also use the system to let people know via Find My that you, for example, successfully made it to the top of Mount Everest or Snowdon.
+
+As I mentioned above, the iPhone 14 is rated for 20 hours of video playback, 16 hours of streamed video, and 80 hours of audio playback. We got more than a full day’s battery life off a single charge. The iPhone 14 ships with a Lightning-to-USB-C charge cable and no charger.
+
+You can buy a 5W adapter, or spend a bit more for Apple’s 20W charger, which will get you to 50% charge in 30 minutes. The phone is also MagSafe and Qi wireless charging compatible. 
+
+Battery score: 4/5
+
+All Apple iPhone 14 handsets ship with iOS 16. It’s a worthwhile upgrade that offers some of the most significant platform changes we’ve seen in a while.
+
+Highlights include a new lock screen. Instead of one static screen, you get multiple screens, each with their own focus mode attached.
+
+There are powerful image tools that let you take any photo and use it on your lock screen with, for instance, a portion of someone’s head peeking over the redesigned time readout. You can also add widgets (different ones for each lock screen) to really personalize the experience.
+
+There are other cool features, like editable and retrievable texts, multi-stop directions in Maps, live text in videos, and more.
+
+It’s a good OS update, and we think it enhances any iPhone running it.
+
+Software score: 4.5/5
+
+This is now Apple’s lightest and cheapest iPhone 14. It’s more than 30 grams lighter than the similarly sized iPhone 14 Pro, which starts at $899. It lacks the latest screen technology, still has a notch, and only has two rear cameras, which for some, may feel like big trade-offs, in order to save $200, but for others, the Pro might be overkill.
+
+The iPhone 14 is Apple's 'good enough', which, as it happens, is still pretty superb. It's unlikely to disappoint most users, even if new owners may be left casting sideways glances at iPhone 14 Pro users flaunting their always-on displays and their Dynamic Islands.

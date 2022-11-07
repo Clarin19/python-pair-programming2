@@ -1,0 +1,63 @@
+The iPhone 14 Pro phones look similar to the regular iPhone 14, and even iPhones as far back as the iPhone 12. But they're unmistakable thanks to the Dynamic Island.
+
+The Dynamic Island is already making the notch feel outdated, both in looks and functionality. It's sleeker and doesn't take up as much space as the notch, and it offers helpful bits of information, shortcuts, and controls to basic apps running in the background, like a timer or a music streaming app. 
+
+The Dynamic Island isn't life-changing in its current iteration, and it's odd that notifications still appear in a separate translucent rectangle underneath the Dynamic Island rather than expanding from it. It's likely to develop over time to become more useful.
+
+Apple didn't make a lot of changes to the iPhone 14's exterior design, save for an extra 0.01-inch of thickness — most iPhone 13 cases should even fit with the iPhone 14. It's typical of Apple to keep iPhone designs consistent for several generations, as we've seen in the past with the 2014 iPhone 6's overall design barely changing until the 2017 iPhone 8. 
+
+The fact that the design hasn't changed isn't necessarily a bad thing. The iPhone 14 is still beautiful and modern, and the glass and metal body gives it a premium quality. Apple did, however, redesign the iPhone 14's internals so that it's significantly easier and cheaper to repair the back glass, which is among the biggest and most welcome upgrades.
+
+The iPhone 14's lightweight and manageable size make it easy to pick up compared to the Pro models. It's more comfortable to hold and use and it takes up less space on any surface, whether on my desk or in my car. It's simply an ideal balance of size and weight for overall usability.
+
+The iPhone 14's screen is the same as the iPhone 13's screen. And that means the iPhone 14's 60-hertz (Hz) display is becoming outdated. It's noticeably stuttery compared to smoother 120Hz displays on the iPhone 14 Pro models and many premium Android phones. It also doesn't seem appropriate alongside a $799 price, especially when high-refresh-rate displays are the norm in expensive premium phones.
+
+That's a shame, because a high-refresh-rate display could have been enough to properly differentiate the iPhone 14 from the iPhone 13. But the 6.1-inch OLED screen delivers vibrant colors and brightness that has no trouble showing your apps and content in bright sunlight.
+
+Apple denied the iPhone 14 the latest design and functionality feature, the Dynamic Island which is exclusive to the iPhone 14 Pro models. Instead, the iPhone 14 has the same notch as the iPhone 13, which houses the front camera and Face ID sensor
+
+The Dynamic Island is an oval cutout rather than a notch, and it uses the iPhone 14 Pro's screen to make it seem like the cutout expands and contracts to show basic information, media controls, and shortcuts to apps running in the background.
+
+It's innovative and a smarter use of space than the static notch, and it's also sleeker and makes the notch look outdated. It's underwhelming in its current iteration, and I'm barely interacting with the Dynamic Island when I use the iPhone 14 Pro Max, but it shows promise. Apple will surely improve the Dynamic Island over time.
+
+Apple didn't add its new always-on display to the regular iPhone 14, either, which is also exclusive to the Pro models. The new always-on display dims the lockscreen while showing basic information, like time, notifications, widgets, and even continues to show your lockscreen wallpaper.
+
+It's a nice-to-have feature that lets me glance at the screen for basic information rather than having to tap it, and it would have been nice to have on the regular iPhone 14, too. Albeit, options for the always-on display are limited to either on or off, and there's no settings to disable your wallpaper from showing.
+
+It's not possible on the iPhone 14 due to limitations with its 60Hz display — another reason why the iPhone 14's display is outdated.
+
+The entire iPhone 14 series include Apple's new Crash Detection feature that automatically contacts emergency services if you've been in a car crash, and Emergency SOS satellite functionality if you get lost or injured "off the grid" in the US or Canada without a cell signal. 
+
+These are features you hope to never use, but you might be incredibly thankful to have them for "that one time." While it's not a guarantee these new safety tools could make a difference or save your life, their existence offers a higher chance of getting the help you need than with previous iPhones. 
+
+During one of Apple's future events, I won't be surprised to see a "Dear Tim" segment where several iPhone 14 users report how Crash Detection or Emergency SOS helped save their lives, much like previous segments outlining how the Apple Watch saved lives by detecting heart problems.
+
+In an unusual move, Apple is still using the iPhone 13's A15 Bionic processor for the iPhone 14 — only the iPhone 14 Pro models run on the latest A16 Bionic processor. 
+
+To be totally accurate, the iPhone 14 runs on the iPhone 13 Pro's A15 Bionic processor, which has one extra GPU core over the standard iPhone 13's processor. Still, performance is identical among all those iPhones I just mentioned, in benchmarks and in real-world usage.
+
+When I tested the iPhone 14 Pro Max and iPhone 14 side-by-side, I found the iPhone 14 opens and runs apps just as quickly as the iPhone 14 Pro Max. But the iPhone 14's 60Hz display gives the illusion that it's slower than the iPhone 14 Pro, because it isn't as smooth as the Pro's display — yet another reason why it's outdated.
+
+The A16 Bionic is more powerful than the A15 Bionic on paper and in benchmark tests, but that extra power is rarely perceivable so soon after an iPhone's release. The difference between the processors will likely become more apparent over time.
+
+Unsurprisingly, Apple's reliable iPhone cameras are difficult to complain about, and the iPhone 14 takes great photos. 
+
+The iPhone 14's only significant camera upgrade from the iPhone 13 is Apple's new Photonic Engine, which is meant to improve color, contrast, and brightness in varied lighting scenarios, especially in low and mid-light. 
+
+As is typical with most new iPhone releases, these kinds of incremental upgrades are difficult to notice when comparing to the previous generation. However, owners of older iPhones (iPhone 11 and earlier, in this case) should notice a difference in quality.
+
+While the iPhone 14 takes great photos, you'll find the best camera tech that Apple has to offer in the iPhone 14 Pro models, which include a 3x zoom lens and the biggest iPhone camera upgrade in years, a 48-megapixel main camera.
+
+The 3x zoom lens can be a valid reason to buy the iPhone 14 Pros over the standard iPhone 14. It's convenient for taking sharper and clearer photos of subjects far away. On a personal level, I use the zoom lens more than the others to take photos of my toddler — I can take clearer photos when she's farther away, and close-up photos can add a sentimental mood. 
+
+The 48-megapixel main camera isn't a major selling point for the proverbial "most people." The iPhone 14 Pros continue to take regular 12-megapixel photos unless you enable the RAW camera option to unlock the full 48-megapixels. And while it can capture sharper photos with more detail than a 12-megapixel photo, 48-megapixel photos take up a lot of storage — they can eat up to 60 megabytes per photo. It primarily benefits those who often take photos in the RAW format, like photographers, especially those who edit photos. 
+
+The iPhone 13 was a revelation in battery life compared to previous iPhones, as well as the 2021 crop of Android phones, and the iPhone 14 improves on it even further. 
+
+It's not a huge improvement — Apple claims an extra hour of battery life for video streaming, and I still get to around 35% by the end of the day, like I did with the iPhone 13. Still, it's safe to say that the iPhone 14 has the best battery life in the $800 range.
+
+I'm expecting the iPhone 14 Plus will have even better battery life considering its large size. I'll be testing the iPhone 14 Plus' battery life as soon as I can, and I'll update this review with that information.
+
+For the most part, the iPhone 14 offers nearly identical features, performance, and cameras as the iPhone 13, and many may consider saving $100 by buying the older model. However, safety tools like Crash Detection and Emergency SOS are meaningful features that may be worth the extra $100, especially if you're looking to buy a phone for a loved one.
+
+If you're coming from an older iPhone, like the iPhone 11 and earlier, I'd recommend the iPhone 14 first if $800 is in your budget. If $700 is the maximum, you could get the iPhone 13. If possible, however, you could wait a year for the next iPhone release to get an iPhone with Crash Detection. Indeed, Apple will likely keep around the iPhone 14 when it announces its new iPhone next year, and it'll reduce its price, just like it did with the iPhone 13. 
