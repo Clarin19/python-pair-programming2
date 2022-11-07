@@ -1,8 +1,6 @@
 # python-pair-programming2
 Python Pair Programming Week 4-6 : Text Sentiment Analysis
 
-Python Pair Programming for Week 1-3 - Analysis on Scikit Learn California Housing Dataset
-
 This purpose of this submission was to frame a business question, analyse text data and perform sentiment analysis
 
 Business Context :
@@ -16,6 +14,8 @@ How are new features like emergency SOS via satellite received by public?
 
 These insights will help Apple design their next-generation iPhones.
 
+Mini Report :
+
 Articles from four popular websites that reviewed iPhone 14 were extracted into text. 
 Text analysis was then carried out to extract 9,121 tokens in total. 
 Pre-processing steps, such as removing stopwords, punctuations, digits, and meaningless characters/words were performed to ensure that all the words analysed have a significant meaning.
@@ -28,7 +28,7 @@ The frequency distribution showed most common words present in these reviews and
 
 We would like to thank the below sources for the execution of this programming assessment, without whom this submission would not have been posssible.
 
-References
+References :
 
 Gibbs, S. (2022). iPhone 14 Review: Familiar Design but Now Easier to Repair. [online] The Guardian. Available at: https://www.theguardian.com/technology/2022/oct/10/iphone-14-review-apple-price-design [Accessed 5 Nov. 2022].
 
